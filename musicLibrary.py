@@ -1,5 +1,5 @@
 music ={
-    "baby": "https://youtu.be/LTsR3LfhdxI?si=KQsGIcXz4DS9eT_l",
-    "lady": "https://youtu.be/zqhK6eh9zYw?si=cw0wLVdnHBaY-hjg",
-    "song": "https://youtu.be/kquPJC4cq7o?si=gA9yOn5Nzq0ABEVd",
+    "baby": "https://youtu.be/j1YJ3ePsEcc?si=MAsrCu3GuK6zxZZx",
+    "lady": "https://youtu.be/S-9R6RiIQjI?si=rWcaM-PJ9j_70T75",
+    "song": "https://youtu.be/kXzDILjsnRY?si=D40OBcmyYeE23oor",
 }
